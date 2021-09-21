@@ -1,0 +1,32 @@
+.speech{
+    font-family: 'Trebuchet MS';
+    font-size: large;
+    color: blueviolet;
+}
+.stage-direction{
+    font-family: Arial;
+    font-size: medium;
+    color: lime;
+    background-color: lightgreen;
+
+}
+.stage-direction.hover{
+    background-color: lightgreen;
+}
+
+
+.name{
+    font-family: cursive;
+    font-size: x-large;
+    color: chartreuse;
+}
+.LADY WINDERMERE{
+    color: maroon;
+}
+.LORD DARLINGTON{
+    color: orange;
+}
+.PARKER{
+    color: violet;
+}
+
