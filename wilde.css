@@ -22,9 +22,18 @@
 }
 .LADYWINDERMERE{
     color: rgb(88, 236, 19);
+    
+}
+.LORDDARLINGTON:hover{
+    background-color: chartreuse;
+    text-shadow: 5px 5px 4px black;
+    border-style: double ;
+    
+    
 }
 .LORDDARLINGTON{
     color: orange;
+   
 }
 .PARKER{
     color: violet;
